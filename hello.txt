@@ -1,0 +1,82 @@
+    <!--
+<!-- <div class="da-section">
+  <div class="container">
+    <div class="h3 text-center" data-aos="fade-up">Meet our Team Members</div>
+  </div>
+  <div class="da-team carousel slide py-5" id="da-carouselIndicator" data-ride="carousel" data-aos="zoom-in-up" data-aos-duration="1000">
+    <div class="container">
+      <ol class="carousel-indicators">
+        <li class="active" data-target="#da-carouselIndicator" data-slide-to="0"></li>
+        <li data-target="#da-carouselIndicator" data-slide-to="1"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="card d-block mb-3"><img class="card-img-top" src="https://cdn.discordapp.com/attachments/978504859642908743/1033436521082126436/ezgif.com-gif-maker_40.gif" alt="image"/>
+                <div class="card-body text-center">
+                  <div class="h5">Saizuo</div>
+                  <p class="text-muted">CEO</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card d-block mb-3"><img class="card-img-top" src="https://cdn.discordapp.com/attachments/978504859642908743/1033438684692877352/ezgif.com-gif-maker_42.gif" alt="image"/>
+                <div class="card-body text-center">
+                  <div class="h5">Cypress</div>
+                  <p class="text-muted">COO</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card d-block mb-3"><img class="card-img-top" src="https://cdn.discordapp.com/attachments/978504859642908743/1033439766500360342/ezgif.com-gif-maker_43.gif" alt="image"/>
+                <div class="card-body text-center">
+                  <div class="h5">R3FL3X</div>
+                  <p class="text-muted">Software Developer</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="card d-block mb-3"><img class="card-img-top" src="https://cdn.discordapp.com/attachments/978504859642908743/1033594775338758144/2022_10_23_0ga_Kleki.png" alt="image"/>
+                <div class="card-body text-center">
+                  <div class="h5">CaCO3</div>
+                  <p class="text-muted">Discord Bot Dev</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card d-block mb-3"><img class="card-img-top" src="https://cdn.discordapp.com/attachments/978504859642908743/1033595192500043777/2022_10_23_0gb_Kleki.png" alt="image"/>
+                <div class="card-body text-center">
+                  <div class="h5">Enzzap</div>
+                  <p class="text-muted">Discord Bot Dev</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card d-block mb-3"><img class="card-img-top" src="https://cdn.discordapp.com/attachments/978504859642908743/1033595571103080488/2022_10_23_0gd_Kleki.png" alt="image"/>
+                <div class="card-body text-center">
+                  <div class="h5">KPKPNY</div>
+                  <p class="text-muted">Web Developer</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        <!--  -->
